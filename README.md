@@ -1,7 +1,7 @@
 # WindowsX9-Batch-32bit
   
 Mini-pseudo operating system written in windows batch file.  
-Last Tested 2015 on Windows XP, 7, 8.1 32 bit.  
+Last Tested 2013-2015 on Windows XP, 7, 8.1 32 bit.  
 Working full only at 32 bit OS (16 bit modules).  
 
 ## Included and used modules

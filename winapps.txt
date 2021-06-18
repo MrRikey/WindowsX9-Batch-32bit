@@ -1,0 +1,55 @@
+
+:player "Player " [x]
+%player%
+     [Play]  [Stop]  [Info]
+
+:pplayer
+Music:
+[$player                     ] 
+
+:update 
+Updating Completed.
+         
+       [Ok]
+:updating 
+Please Wait...
+         
+       [Ok]	
+
+:konto "Account" [x]
+
+ [Add Password]
+
+ [Delete Password]
+
+:passlog
+Login: %username%
+Password: [$password  ]
+
+:passnew
+New Password:
+[$password  ]
+
+:Voice "Voice" [x]
+Write to speak:
+[$voice                              ] [Speak]
+
+:calc "Calculator"  [x]
+
+[$calc    ] [OK]
+
+:calcnext 
+Your result:
+%calcb%
+
+   [Ok]
+
+:noupdate 
+Updating Failed.
+         
+       [Ok]
+
+:playinfo
+Paste the music file into the folder to play.
+
+                                [Ok]

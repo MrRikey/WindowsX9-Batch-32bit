@@ -17,5 +17,5 @@ Working full only at 32 bit OS (16 bit modules).
   
 ## Video 
 
-[![Windows X9 Presentation](https://user-images.githubusercontent.com/85984736/122615261-87f45b00-d088-11eb-929f-84e136b2e0da.png)](https://www.youtube.com/watch?v=giZYRLTB4O8)
+https://www.youtube.com/watch?v=giZYRLTB4O8
 

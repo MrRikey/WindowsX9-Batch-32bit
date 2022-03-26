@@ -15,6 +15,11 @@ Working full only at 32 bit OS (16 bit modules).
 <li>7. Login/password system</li>  
 </ul>
   
+## First look
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/85984736/160248253-b8851f3c-b5da-4bc8-9159-e3e15ecb2dbd.gif)
+
+  
 ## Video 
 
 https://www.youtube.com/watch?v=giZYRLTB4O8

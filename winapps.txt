@@ -30,7 +30,7 @@ Password: [$password  ]
 New Password:
 [$password  ]
 
-:Voice "Voice" [x]
+:voice "Voice" [x]
 Write to speak:
 [$voice                              ] [Speak]
 
